@@ -1,0 +1,65 @@
+body{
+    background-color: grey;
+}
+
+.card{
+    margin: auto;
+    width: 410px;
+    height: 385px;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: #CCC 5px 6px 6px 8px;
+    
+}
+
+.card-body img{
+    width: 250px;
+    height: 200px;
+    padding-left: 76px;
+}
+
+.card-body-title{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+
+.card-body-text{
+    text-align: center;
+    color: rgb(199, 199, 216);
+    margin-top: 2px;
+}
+
+#card-body-line{
+    height: 1px;
+    border-radius: 3px;
+    background-color: rgb(202, 193, 193);  
+}
+
+table{
+    display: block;
+}
+
+table tr th h3{
+    margin-top: 2px;
+    margin-bottom: 1px;
+    padding-left: 20px;
+}
+
+table tr td p {
+    margin: auto;
+    padding-left: 20px;
+}
+
+#h3{
+    margin-left: 25px;
+}
+
+#p2{
+    margin-left: 10px;
+}
+
+#p3{
+    margin-left: 26px;
+}
